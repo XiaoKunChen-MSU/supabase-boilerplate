@@ -1,1 +1,26 @@
 /* Add screen styles below */
+td {
+    padding: 7px;
+}
+
+body {
+   
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(48, 48, 184);
+}
+
+table,td {
+    border: 1px solid;
+    margin: 10px;
+    border-collapse: collapse;
+    background-color: antiquewhite;
+}
+
+td {
+    height: 80px;
+}
+
